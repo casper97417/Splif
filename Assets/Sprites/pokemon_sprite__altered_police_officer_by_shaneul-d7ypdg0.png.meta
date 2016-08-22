@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: bc31b3a666498a042b3eab765d485db7
+timeCreated: 1457901682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_0
+    21300002: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_1
+    21300004: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_2
+    21300006: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_3
+    21300008: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_4
+    21300010: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_5
+    21300012: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_6
+    21300014: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_7
+    21300016: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_8
+    21300018: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_9
+    21300020: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_10
+    21300022: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_11
+    21300024: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_12
+    21300026: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_13
+    21300028: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_14
+    21300030: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 147
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 147
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 101
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 53
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 53
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 53
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pokemon_sprite__altered_police_officer_by_shaneul-d7ypdg0_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
